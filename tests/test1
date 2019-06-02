@@ -1,0 +1,2 @@
+#!/bin/sh
+$(dirname $0)/../build/astar < $(dirname $0)/input1.txt
